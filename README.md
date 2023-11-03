@@ -1,6 +1,6 @@
 # Trybers and Dragons - T&D
 
-Trybers and Dragons é um projeto de jogo de RPG (Role Playing Game) que simula um universo de fantasia medieval, onde jogadores podem criar personagens r enfrentar monstros. 
+Trybers and Dragons é um projeto de jogo de RPG (Role Playing Game) que simula um universo de fantasia medieval, onde jogadores podem criar personagens e enfrentar monstros. 
 O projeto é implementado utilizando TypeScript e segue os princípios da arquitetura SOLID e da Programação Orientada a Objetos (POO).
 
 ## Introdução
